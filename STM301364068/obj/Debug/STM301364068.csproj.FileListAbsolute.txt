@@ -1,0 +1,6 @@
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/bin/Debug/STM301364068.exe
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/bin/Debug/STM301364068.pdb
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/obj/Debug/STM301364068.csproj.AssemblyReference.cache
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/obj/Debug/STM301364068.csproj.CoreCompileInputs.cache
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/obj/Debug/STM301364068.exe
+/Users/anmolsagarshrestha/Documents/Semester2/comp123/JetBrains/AnmolS_301364068_L45/STM301364068/obj/Debug/STM301364068.pdb

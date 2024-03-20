@@ -3,22 +3,22 @@ using System.Collections.Generic;
 
 namespace STM301364068
 {
-    public class TaskManager
+    public static class TaskManager
     {
-        private List<Task> tasks;
+        private static List<Task> tasks;
 
-        public List<Task> Tasks
+        public static List<Task> Tasks
         {
             get;
         }
        
-        public string AllTaskToString()
+        public static string AllTaskToString()
         {
             var formatTasks = string.Join("\n", Tasks);
             return formatTasks;
         }
 
-        public Task CreateTask(string description)
+        public static Task CreateTask(string description)
         {
             Task newTask = new Task();
             tasks.Add(newTask);
